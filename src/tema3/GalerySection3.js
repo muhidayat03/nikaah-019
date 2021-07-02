@@ -15,7 +15,6 @@ import Galery10 from "./photo/10.jpg";
 import Gallery from "react-photo-gallery";
 import { useState } from "react";
 import Lightbox from "react-modal-image/lib/Lightbox";
-import Button from "../components/Button";
 // import { Facebook, Instagram, Youtube } from "react-bootstrap-icons";
 
 const background = {
