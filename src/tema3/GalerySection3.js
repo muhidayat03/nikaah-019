@@ -4,14 +4,14 @@ import ModalImage from "../components/ModalImage";
 
 import Galery1 from "./photo/1.jpg";
 import Galery2 from "./photo/2.jpg";
-import Galery3 from "./photo/3.jpg";
 import Galery4 from "./photo/4.jpg";
-import Galery5 from "./photo/5.jpg";
 import Galery6 from "./photo/6.jpg";
 import Galery7 from "./photo/7.jpg";
 import Galery8 from "./photo/8.jpg";
 import Galery9 from "./photo/9.jpg";
 import Galery10 from "./photo/10.jpg";
+import Galery11 from "./photo/11.jpg";
+import Galery12 from "./photo/12.jpg";
 import Gallery from "react-photo-gallery";
 import { useState } from "react";
 import Lightbox from "react-modal-image/lib/Lightbox";
@@ -72,31 +72,27 @@ const GaleryComponent = () => {
 
   const photos = [
     {
-      src: Galery1,
-      width: 4000,
-      height: 6000,
-    },
-    {
       src: Galery2,
       width: 6000,
       height: 4000,
     },
     {
-      src: Galery3,
-      width: 6,
-      height: 4,
+      src: Galery1,
+      width: 4000,
+      height: 6000,
     },
-    {
-      src: Galery5,
-      width: 6,
-      height: 4,
-    },
+
     {
       src: Galery4,
       width: 4,
       height: 6,
     },
 
+    {
+      src: Galery11,
+      width: 6,
+      height: 4,
+    },
     {
       src: Galery6,
       width: 4,
@@ -108,17 +104,22 @@ const GaleryComponent = () => {
       height: 4,
     },
     {
+      src: Galery12,
+      width: 6,
+      height: 4,
+    },
+    {
+      src: Galery10,
+      width: 6,
+      height: 4,
+    },
+    {
       src: Galery8,
       width: 3845,
       height: 5767,
     },
     {
       src: Galery9,
-      width: 4,
-      height: 6,
-    },
-    {
-      src: Galery10,
       width: 6,
       height: 4,
     },
