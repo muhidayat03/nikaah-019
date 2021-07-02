@@ -9,7 +9,7 @@ import userData from "./userData";
 import { Col, Row } from "../components/Grid";
 
 const CountDown = ({ theme }) => {
-  const [event1, event2] = userData.event;
+  const [event1] = userData.event;
   // const { url } = userData.calendar;
 
   const { activeTheme } = useThemeContext();
