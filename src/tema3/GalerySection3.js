@@ -26,7 +26,7 @@ const GalerySection = ({ theme }) => (
     <div className="content">
       {/* <h1>Our Glalery</h1> */}
       <div style={{ padding: 20 }}>
-        <h3 data-aos="fade-up">Dokumentasi Pernikahan</h3>
+        <h3 data-aos="fade-up">Galeri Foto</h3>
         <p data-aos="fade-up">
           Kami ingin merasakan kehadiran Anda! Karena kami berharap dapat
           membagikan hari yang tak terlupakan seumur hidup ini dengan Anda,
