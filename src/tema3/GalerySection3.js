@@ -16,7 +16,7 @@ import Gallery from "react-photo-gallery";
 import { useState } from "react";
 import Lightbox from "react-modal-image/lib/Lightbox";
 import Button from "../components/Button";
-import { Facebook, Instagram, Youtube } from "react-bootstrap-icons";
+// import { Facebook, Instagram, Youtube } from "react-bootstrap-icons";
 
 const background = {
   pink: "#fff9f9",
@@ -35,26 +35,6 @@ const GalerySection = ({ theme }) => (
           teman-teman tercinta kita, kita berbagi cinta yang kita miliki secara
           virtual.
         </p>
-
-        <Button
-          onClick={() =>
-            window.open("https://www.youtube.com/watch?v=WFJBzPdaX2Q", "_blank")
-          }
-          data-aos="zoom-in"
-        >
-          Live Streaming
-        </Button>
-        <div className="social-media-container">
-          <div className="social-media-item" data-aos="zoom-in">
-            <Instagram fill="white" />
-          </div>
-          <div className="social-media-item" data-aos="zoom-in">
-            <Facebook fill="white" />
-          </div>
-          <div className="social-media-item" data-aos="zoom-in">
-            <Youtube fill="white" />
-          </div>
-        </div>
       </div>
       <GaleryComponent />
     </div>
