@@ -78,8 +78,15 @@ const CountDown = ({ theme }) => {
 
         <div className="bottom-section" data-aos="zoom-in">
           <p>
-            Kehadiran serta doa restu Bapak/Ibu/Saudara/i merupakan suatu
-            kebahagiaan dan kehormatan bagi kami.
+            Kami sampaikan permohonan maaf terkait dengan acara pernikahan kami
+            yang dengan berat hati tidak bisa mengundang Bapak, Ibu, Saudara/i
+            sekalian dikarenakan kondisi pandemi COVID-19 yang kita alami saat
+            ini.
+          </p>
+          <p>
+            Maka dari itu bersama dengan informasi ini, kami bermaksud
+            membagikan kabar bahagia ini sekaligus memohon doa dan restu dari
+            saudara sekalian untuk pernikahan kami. Terimakasih.
           </p>
           <h3>Wassalamu'alaikum Warrahmatullahi Wabarrakatuh</h3>
         </div>
@@ -98,19 +105,11 @@ const CountDown = ({ theme }) => {
             </div>
           </div>
           <Row className="date-info-section">
-            <Col padding="0" xs="1" sm="1" md="1" lg="2">
+            <Col padding="0" xs="1" sm="1" md="1" lg="1">
               <div className="date-info" data-aos="fade-up">
                 <h3>{event1.name}</h3>
                 <p>{event1.time}</p>
                 <p style={{ marginTop: 8 }}>{event1.location}</p>
-              </div>
-            </Col>
-
-            <Col padding="0" md="1" lg="2">
-              <div className="date-info" data-aos="fade-up">
-                <h3>{event2.name}</h3>
-                <p>{event2.time}</p>
-                <p style={{ marginTop: 8 }}>{event2.location}</p>
               </div>
             </Col>
           </Row>
