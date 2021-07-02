@@ -26,14 +26,14 @@ const GalerySection = ({ theme }) => (
       {/* <h1>Our Glalery</h1> */}
       <div style={{ padding: 20 }}>
         <h3 data-aos="fade-up">Galeri Foto</h3>
-        <p data-aos="fade-up">
+        {/* <p data-aos="fade-up">
           Kami ingin merasakan kehadiran Anda! Karena kami berharap dapat
           membagikan hari yang tak terlupakan seumur hidup ini dengan Anda,
           situasi pandemi saat ini memungkinkan kami untuk melakukan video
           langsung di situs web ini pada tanggal dan waktu yang disebutkan untuk
           teman-teman tercinta kita, kita berbagi cinta yang kita miliki secara
           virtual.
-        </p>
+        </p> */}
       </div>
       <GaleryComponent />
     </div>
