@@ -12,8 +12,8 @@ import {
   PeopleFill,
   GeoAlt,
   GeoAltFill,
-  ChatSquareText,
-  ChatSquareTextFill,
+  Camera,
+  CameraFill,
 } from "react-bootstrap-icons";
 
 const TabMenuItem = ({ onClick, selected, Icon, IconActive, name }) => {
@@ -35,7 +35,8 @@ const TabMenu = () => {
   const PengantinSection = useScrollSection("pengantin");
   const EventSection = useScrollSection("event");
   const PetaSection = useScrollSection("map");
-  const GalerySection = useScrollSection("message");
+  // const GalerySection = useScrollSection("message");
+  const GalerySection = useScrollSection("galery");
 
   return (
     <FooterContainer>
@@ -70,9 +71,9 @@ const TabMenu = () => {
       <TabMenuItem
         onClick={GalerySection.onClick}
         selected={GalerySection.selected}
-        Icon={ChatSquareText}
-        IconActive={ChatSquareTextFill}
-        name="Ucapan"
+        Icon={Camera}
+        IconActive={CameraFill}
+        name="galery"
       />
     </FooterContainer>
   );
