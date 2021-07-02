@@ -68,35 +68,6 @@ const MessageSection = () => {
               onChange={(e) => setUserMsg(e.target.value)}
             />
           </div>
-          <div className="form-group">
-            <label>Kehadiran</label>
-            <div style={{ display: "flex", marginTop: 10 }}>
-              <div style={{ marginRight: 30 }}>
-                <label className="container">
-                  Hadir
-                  <input
-                    type="radio"
-                    onChange={() => setuserHadir(1)}
-                    checked={userHadir === 1}
-                    name="hadir"
-                  />
-                  <span className="checkmark"></span>
-                </label>
-              </div>
-              <div>
-                <label className="container">
-                  Tidak
-                  <input
-                    onChange={() => setuserHadir(2)}
-                    checked={userHadir === 2}
-                    type="radio"
-                    name="tidak"
-                  />
-                  <span className="checkmark"></span>
-                </label>
-              </div>
-            </div>
-          </div>
           <Button
             className="message-button"
             onClick={sendMessage}
