@@ -1,0 +1,18 @@
+<svg id="Group_45509" data-name="Group 45509" xmlns="http://www.w3.org/2000/svg" width="254.623" height="254.592" viewBox="0 0 254.623 254.592">
+  <path id="Path_32691" data-name="Path 32691" d="M19962.074,3838.184c21.3-41.366,69.576-66.064,115.977-62.445,46.381,3.624,89.008,33.778,110.98,74.792,27.264,50.87,19.633,121.866-26.16,156.974-26.814,20.536-63.148,26.7-96.16,19.718C19989.154,4010.832,19922.213,3915.543,19962.074,3838.184Z" transform="translate(-19950.195 -3775.389)" fill="#fff5ec"/>
+  <path id="Path_32714" data-name="Path 32714" d="M21660.955,5802.021a38.618,38.618,0,1,1-38.613-38.622A38.619,38.619,0,0,1,21660.955,5802.021Z" transform="translate(-21488.346 -5647.325)" fill="#fefefe"/>
+  <path id="Path_32715" data-name="Path 32715" d="M21979.461,4552.019a16.48,16.48,0,0,1-16.484-16.476V4411.306a16.479,16.479,0,0,1,32.957,0v124.236A16.477,16.477,0,0,1,21979.461,4552.019Z" transform="translate(-21845.455 -4358.663)" fill="#fefefe"/>
+  <path id="Path_32716" data-name="Path 32716" d="M21960.139,6121.011a18.843,18.843,0,1,1-18.844-18.841A18.843,18.843,0,0,1,21960.139,6121.011Z" transform="translate(-21807.303 -5966.317)" fill="#d8b799"/>
+  <line id="Line_16" data-name="Line 16" y1="53.156" transform="translate(133.999 101.537)" fill="none" stroke="#d8b799" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+  <line id="Line_17" data-name="Line 17" x1="11.999" transform="translate(138.477 70.938)" fill="none" stroke="#d8b799" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  <line id="Line_18" data-name="Line 18" x1="11.999" transform="translate(138.477 89.168)" fill="none" stroke="#d8b799" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  <line id="Line_19" data-name="Line 19" x1="11.999" transform="translate(138.477 107.399)" fill="none" stroke="#d8b799" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  <g id="Group_45273" data-name="Group 45273" transform="translate(79.696 199.535)">
+    <text id="_3" data-name="3" transform="translate(7 21.5)" fill="#d8b799" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+    <text id="_7" data-name="7" transform="translate(20.694 22)" fill="#d8b799" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">7</tspan></text>
+    <text id="_." data-name="." transform="translate(34.39 23)" fill="#d8b799" font-size="14" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">.</tspan></text>
+    <text id="_2" data-name="2" transform="translate(51.44 22)" fill="#d8b799" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+    <text id="_" data-name="°" transform="translate(69.032 18)" fill="#d8b799" font-size="30" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">°</tspan></text>
+    <text id="C" transform="translate(88.233 21)" fill="#d8b799" font-size="19" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+  </g>
+</svg>
