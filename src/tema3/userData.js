@@ -11,7 +11,7 @@ const userData = {
     name: "Lutfhi ",
     fullname: "dr. Lutfhi Septiani Khasanah",
     birth_order: "Pertama",
-    father_name: "H. Wawad, S. Kep., Ns",
+    father_name: "H. Wamad, S. Kep., Ns",
     mother_name: "Hj. Siti Solihah",
   },
   map: {
