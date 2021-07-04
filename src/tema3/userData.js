@@ -8,8 +8,8 @@ const userData = {
     mother_name: "Hj. Aksoh",
   },
   bride: {
-    name: "Lutfhi ",
-    fullname: "dr. Lutfhi Septiani Khasanah",
+    name: "Luthfi ",
+    fullname: "dr. Luthfi Septiani Khasanah",
     birth_order: "Pertama",
     father_name: "H. Wamad, S. Kep., Ns",
     mother_name: "Hj. Siti Solihah",
